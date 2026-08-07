@@ -1,0 +1,4 @@
+cat => weak
+correcthorsebattery => strong
+medium99 => medium
+Failed logins: 2
