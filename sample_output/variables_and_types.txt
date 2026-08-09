@@ -1,0 +1,6 @@
+Username: alice
+Failed logins: 3
+Is admin: True
+Risk score: 50
+Username description: {'type': 'str', 'text': 'alice'}
+Failed login text is truthy: True
