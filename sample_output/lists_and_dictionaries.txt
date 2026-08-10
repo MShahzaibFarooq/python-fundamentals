@@ -1,0 +1,4 @@
+Unique usernames: ['alice', 'bob', 'charlie']
+Event counts: {'login': 1, 'failed_login': 2, 'file_change': 1}
+High-risk events: [{'type': 'failed_login', 'risk_score': 75}, {'type': 'failed_login', 'risk_score': 90}]
+User record: {'username': 'dana', 'role': 'analyst', 'active': True}
