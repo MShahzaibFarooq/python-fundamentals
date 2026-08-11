@@ -1,0 +1,7 @@
+Failed login count: 3
+Failed users: ['bob', 'charlie', 'bob']
+Average risk score: 63.333333333333336
+Numbered findings:
+1. Weak password policy
+2. Multiple failed logins
+3. Missing audit notes
