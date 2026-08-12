@@ -1,0 +1,7 @@
+File content:
+INFO login successful
+WARNING password retry
+ERROR failed login
+INFO logout
+Error lines: ['ERROR failed login']
+Summary: {'INFO': 2, 'WARNING': 1, 'ERROR': 1}
